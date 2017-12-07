@@ -3,7 +3,7 @@ email:             hello@athelo.net
 description:       The Blog of Aezlo
 author:            Aezlo
 baseurl:           "/blog"
-url:               "athelo.net"
+url:               "http://athelo.net"
 
 # Social Profiles
 twitter_username:  axlelr
